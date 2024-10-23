@@ -1,7 +1,7 @@
 from csv import reader
 
 
-#row:
+# row:
 # 1 - название
 # 2 - aвтор
 # 3 - дата публикации

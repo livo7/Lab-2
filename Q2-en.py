@@ -6,7 +6,7 @@ from csv import reader
 # 2 - aвтор
 # 6 - цена
 
-output = open('result.txt', 'w',encoding='windows-1251')
+output = open('result.txt', 'w', encoding='windows-1251')
 
 while True:
     flag = 0
